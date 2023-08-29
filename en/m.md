@@ -8,7 +8,7 @@
 
 an intermediate layer in the wall of a blood vessel or lymphatic vessel.
 
->> 解读 - /myidyie/【末依填｜垫】
+> 解读 - /myidyie/【末依填｜垫】
 
 两个对象之间的填充 - the padding between two objects
 
@@ -21,9 +21,9 @@ an intermediate layer in the wall of a blood vessel or lymphatic vessel.
 
 the main means of mass communication (broadcasting, publishing, and the internet) regarded collectively.
 
->> 解读 - /myidyie/【秘议掂】
+> 解读 - /myidyie/【秘议掂】
 
-秘密商量 - commucate secretly to determine
+秘密商量 - communicate secretly to determine
 
 1. myi = mye【秘】+ yi【议】
    1. me【秘】，secretly
